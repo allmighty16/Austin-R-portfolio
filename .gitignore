@@ -1,1 +1,2 @@
-. #style.css 
+ignore:{
+#style.css {.gitignore }}
